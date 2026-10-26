@@ -49,14 +49,10 @@ The 1st-attempt notes reflect the foundation phase; the 2nd-attempt notes are th
 - [LFD259 – Kubernetes for Developers](https://trainingportal.linuxfoundation.org/)
 - [Mumshad Mannambeth – Certified Kubernetes Application Developer (Udemy)](https://www.udemy.com/course/certified-kubernetes-application-developer/)
 
-**⭐ Practice — the two most important resources for me**
+**⭐ Practice**
 - **[jamesbuckett/ckad-questions](https://github.com/jamesbuckett/ckad-questions)** — a large, well-organized bank of CKAD-style questions with solutions. My go-to for hands-on drilling.
 - **[TiPunchLabs/ckad-dojo](https://github.com/TiPunchLabs/ckad-dojo)** — scenario-based practice repo. Great for simulating the "do it in the cluster" feel of the real exam.
-
-**Other practice**
-- [KodeKloud Kubernetes Challenges (free)](https://learn.kodekloud.com/learn/courses/kubernetes-challenges)
 - [Killer.sh CKAD Simulator](https://killer.sh/)
-- [Kubernetes Tasks (official)](https://kubernetes.io/docs/tasks/)
 
 **Community write-ups**
 - [My CKAD Journey – Hari Overhere (Medium)](https://medium.com/@harioverhere/ckad-certified-kubernetes-application-developer-my-journey-3afb0901014)
