@@ -2,7 +2,7 @@
 
 Personal notes, cheat sheets, and study plans from my journey toward the **Certified Kubernetes Application Developer (CKAD)** certification.
 
-> **Status:** First quick attempt scored **55/100** (passing = 66). Retaking in **September/October 2026** with a weekend-only study plan.
+> **Status:** Passed CKAD with **98/100** 🎉. First attempt was quick and unserious (**55/100**); the retake was the real prep.
 
 These notes are informal and written for my own reference — expect shorthand, TODOs, and scattered reminders rather than polished tutorials. Sharing them in case they help someone else preparing for the same exam.
 
@@ -57,5 +57,3 @@ The 1st-attempt notes reflect the foundation phase; the 2nd-attempt notes are th
 **Community write-ups**
 - [My CKAD Journey – Hari Overhere (Medium)](https://medium.com/@harioverhere/ckad-certified-kubernetes-application-developer-my-journey-3afb0901014)
 - [My CKAD Exam Experience – Atharva Chauthaiwale (LinkedIn)](https://www.linkedin.com/pulse/my-ckad-exam-experience-atharva-chauthaiwale/)
-
----
